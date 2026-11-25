@@ -1,0 +1,1416 @@
+{
+  "groups": [
+    {
+      "number": 1,
+      "title": "Salam dan Ungkapan Sehari-hari",
+      "subgroups": [
+        {
+          "number": "1.1",
+          "title": "Ungkapan Sapaan",
+          "words": [
+            {
+              "jp": "おはようございます",
+              "romaji": "Ohayou gozaimasu",
+              "meaning": "Selamat pagi",
+              "label": "Sopan",
+              "audio": "おはようございます",
+              "example": "おはようございます、先生。",
+              "exampleRomaji": "Ohayou gozaimasu, sensei.",
+              "translation": "Selamat pagi, Guru."
+            },
+            {
+              "jp": "おはよう",
+              "romaji": "Ohayou",
+              "meaning": "Selamat pagi",
+              "label": "Kasual",
+              "audio": "おはよう",
+              "example": "おはよう、田中さん。",
+              "exampleRomaji": "Ohayou, Tanaka-san.",
+              "translation": "Selamat pagi, Tanaka."
+            },
+            {
+              "jp": "こんにちは",
+              "romaji": "Konnichiwa",
+              "meaning": "Halo / Selamat siang",
+              "label": "Umum",
+              "audio": "こんにちは",
+              "example": "こんにちは、元気ですか。",
+              "exampleRomaji": "Konnichiwa, genki desu ka.",
+              "translation": "Halo, apa kabar?"
+            },
+            {
+              "jp": "こんばんは",
+              "romaji": "Konbanwa",
+              "meaning": "Selamat malam",
+              "label": "Umum",
+              "audio": "こんばんは",
+              "example": "こんばんは、田中さん。",
+              "exampleRomaji": "Konbanwa, Tanaka-san.",
+              "translation": "Selamat malam, Tanaka."
+            },
+            {
+              "jp": "おやすみなさい",
+              "romaji": "Oyasuminasai",
+              "meaning": "Selamat tidur",
+              "label": "Sopan",
+              "audio": "おやすみなさい",
+              "example": "おやすみなさい、お母さん。",
+              "exampleRomaji": "Oyasuminasai, okaasan.",
+              "translation": "Selamat tidur, Ibu."
+            },
+            {
+              "jp": "おやすみ",
+              "romaji": "Oyasumi",
+              "meaning": "Selamat tidur",
+              "label": "Kasual",
+              "audio": "おやすみ",
+              "example": "おやすみ、また明日。",
+              "exampleRomaji": "Oyasumi, mata ashita.",
+              "translation": "Selamat tidur, sampai besok."
+            }
+          ]
+        },
+        {
+          "number": "1.2",
+          "title": "Ungkapan Perpisahan",
+          "words": [
+            {
+              "jp": "さようなら",
+              "romaji": "Sayounara",
+              "meaning": "Selamat tinggal",
+              "label": "Umum",
+              "audio": "さようなら",
+              "example": "先生、さようなら。",
+              "exampleRomaji": "Sensei, sayounara.",
+              "translation": "Guru, selamat tinggal."
+            },
+            {
+              "jp": "またね",
+              "romaji": "Mata ne",
+              "meaning": "Sampai jumpa",
+              "label": "Kasual",
+              "audio": "またね",
+              "example": "またね、明日。",
+              "exampleRomaji": "Mata ne, ashita.",
+              "translation": "Sampai jumpa, besok."
+            },
+            {
+              "jp": "じゃあ、また",
+              "romaji": "Jaa, mata",
+              "meaning": "Kalau begitu, sampai jumpa",
+              "label": "Kasual",
+              "audio": "じゃあ、また",
+              "example": "じゃあ、また学校で。",
+              "exampleRomaji": "Jaa, mata gakkou de.",
+              "translation": "Kalau begitu, sampai jumpa di sekolah."
+            },
+            {
+              "jp": "また明日",
+              "romaji": "Mata ashita",
+              "meaning": "Sampai besok",
+              "label": "Umum",
+              "audio": "またあした",
+              "example": "また明日、友達。",
+              "exampleRomaji": "Mata ashita, tomodachi.",
+              "translation": "Sampai besok, teman."
+            },
+            {
+              "jp": "では、また",
+              "romaji": "Dewa, mata",
+              "meaning": "Kalau begitu, sampai jumpa",
+              "label": "Sopan",
+              "audio": "では、また",
+              "example": "では、また明日。",
+              "exampleRomaji": "Dewa, mata ashita.",
+              "translation": "Kalau begitu, sampai jumpa besok."
+            }
+          ]
+        },
+        {
+          "number": "1.3",
+          "title": "Permintaan Maaf dan Terima Kasih",
+          "words": [
+            {
+              "jp": "ごめんなさい",
+              "romaji": "Gomennasai",
+              "meaning": "Maaf",
+              "label": "Sopan",
+              "audio": "ごめんなさい",
+              "example": "ごめんなさい、遅れました。",
+              "exampleRomaji": "Gomennasai, okuremashita.",
+              "translation": "Maaf, saya terlambat."
+            },
+            {
+              "jp": "ごめん",
+              "romaji": "Gomen",
+              "meaning": "Maaf",
+              "label": "Kasual",
+              "audio": "ごめん",
+              "example": "ごめん、待たせたね。",
+              "exampleRomaji": "Gomen, mataseta ne.",
+              "translation": "Maaf, sudah membuatmu menunggu."
+            },
+            {
+              "jp": "ありがとう",
+              "romaji": "Arigatou",
+              "meaning": "Terima kasih",
+              "label": "Kasual",
+              "audio": "ありがとう",
+              "example": "ありがとう、田中さん。",
+              "exampleRomaji": "Arigatou, Tanaka-san.",
+              "translation": "Terima kasih, Tanaka."
+            },
+            {
+              "jp": "ありがとうございます",
+              "romaji": "Arigatou gozaimasu",
+              "meaning": "Terima kasih",
+              "label": "Sopan",
+              "audio": "ありがとうございます",
+              "example": "ありがとうございます、先生。",
+              "exampleRomaji": "Arigatou gozaimasu, sensei.",
+              "translation": "Terima kasih, Guru."
+            },
+            {
+              "jp": "いいえ",
+              "romaji": "Iie",
+              "meaning": "Tidak / Bukan. Dalam konteks tertentu dapat digunakan saat merespons ucapan terima kasih.",
+              "label": "Umum",
+              "audio": "いいえ",
+              "example": "いいえ、大丈夫です。",
+              "exampleRomaji": "Iie, daijoubu desu.",
+              "translation": "Tidak apa-apa."
+            }
+          ]
+        },
+        {
+          "number": "1.4",
+          "title": "Ungkapan Sebelum dan Sesudah Makan",
+          "words": [
+            {
+              "jp": "いただきます",
+              "romaji": "Itadakimasu",
+              "meaning": "Ungkapan sebelum makan sebagai bentuk rasa syukur.",
+              "label": "Umum",
+              "audio": "いただきます",
+              "example": "いただきます。",
+              "exampleRomaji": "Itadakimasu.",
+              "translation": "Ungkapan yang diucapkan sebelum mulai makan."
+            },
+            {
+              "jp": "ごちそうさまでした",
+              "romaji": "Gochisousama deshita",
+              "meaning": "Ungkapan terima kasih setelah menikmati makanan.",
+              "label": "Umum",
+              "audio": "ごちそうさまでした",
+              "example": "ごちそうさまでした。",
+              "exampleRomaji": "Gochisousama deshita.",
+              "translation": "Terima kasih atas makanannya."
+            }
+          ]
+        },
+        {
+          "number": "1.5",
+          "title": "Ungkapan Lainnya",
+          "words": [
+            {
+              "jp": "いってきます",
+              "romaji": "Ittekimasu",
+              "meaning": "Saya pergi dulu",
+              "label": "Umum",
+              "audio": "いってきます",
+              "example": "いってきます！",
+              "exampleRomaji": "Ittekimasu!",
+              "translation": "Saya pergi dulu!"
+            },
+            {
+              "jp": "いってらっしゃい",
+              "romaji": "Itterasshai",
+              "meaning": "Hati-hati di jalan",
+              "label": "Umum",
+              "audio": "いってらっしゃい",
+              "example": "いってらっしゃい！",
+              "exampleRomaji": "Itterasshai!",
+              "translation": "Hati-hati di jalan!"
+            },
+            {
+              "jp": "ただいま",
+              "romaji": "Tadaima",
+              "meaning": "Saya pulang",
+              "label": "Umum",
+              "audio": "ただいま",
+              "example": "ただいま！",
+              "exampleRomaji": "Tadaima!",
+              "translation": "Aku pulang!"
+            },
+            {
+              "jp": "おかえりなさい",
+              "romaji": "Okaerinasai",
+              "meaning": "Selamat datang kembali",
+              "label": "Sopan",
+              "audio": "おかえりなさい",
+              "example": "おかえりなさい、お父さん。",
+              "exampleRomaji": "Okaerinasai, otousan.",
+              "translation": "Selamat datang kembali, Ayah."
+            },
+            {
+              "jp": "おかえり",
+              "romaji": "Okaeri",
+              "meaning": "Selamat datang kembali",
+              "label": "Kasual",
+              "audio": "おかえり",
+              "example": "おかえり！",
+              "exampleRomaji": "Okaeri!",
+              "translation": "Selamat datang kembali!"
+            },
+            {
+              "jp": "はじめまして",
+              "romaji": "Hajimemashite",
+              "meaning": "Salam kenal",
+              "label": "Umum",
+              "audio": "はじめまして",
+              "example": "はじめまして。私はアナです。",
+              "exampleRomaji": "Hajimemashite. Watashi wa Ana desu.",
+              "translation": "Salam kenal. Saya Ana."
+            },
+            {
+              "jp": "よろしくお願いします",
+              "romaji": "Yoroshiku onegaishimasu",
+              "meaning": "Mohon bantuannya / Senang berkenalan",
+              "label": "Sopan",
+              "audio": "よろしくおねがいします",
+              "example": "どうぞよろしくお願いします。",
+              "exampleRomaji": "Douzo yoroshiku onegaishimasu.",
+              "translation": "Senang berkenalan dengan Anda."
+            },
+            {
+              "jp": "よろしく",
+              "romaji": "Yoroshiku",
+              "meaning": "Mohon bantuannya / Senang berkenalan",
+              "label": "Kasual",
+              "audio": "よろしく",
+              "example": "よろしくね。",
+              "exampleRomaji": "Yoroshiku ne.",
+              "translation": "Senang berkenalan denganmu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Kata Ganti Orang dan Keluarga",
+      "subgroups": [
+        {
+          "number": "2.1",
+          "title": "Keluarga Sendiri",
+          "words": [
+            {
+              "jp": "かぞく (家族)",
+              "romaji": "Kazoku",
+              "meaning": "Keluarga",
+              "label": "Umum",
+              "audio": "かぞく",
+              "example": "家族は四人です。",
+              "exampleRomaji": "Kazoku wa yonin desu.",
+              "translation": "Keluarga saya ada empat orang."
+            },
+            {
+              "jp": "ちち (父)",
+              "romaji": "Chichi",
+              "meaning": "Ayah saya",
+              "label": "Umum",
+              "audio": "ちち",
+              "example": "父は会社員です。",
+              "exampleRomaji": "Chichi wa kaishain desu.",
+              "translation": "Ayah saya pegawai perusahaan."
+            },
+            {
+              "jp": "はは (母)",
+              "romaji": "Haha",
+              "meaning": "Ibu saya",
+              "label": "Umum",
+              "audio": "はは",
+              "example": "母は料理が上手です。",
+              "exampleRomaji": "Haha wa ryouri ga jouzu desu.",
+              "translation": "Ibu saya pandai memasak."
+            },
+            {
+              "jp": "りょうしん (両親)",
+              "romaji": "Ryoushin",
+              "meaning": "Orang tua saya",
+              "label": "Umum",
+              "audio": "りょうしん",
+              "example": "両親は東京に住んでいます。",
+              "exampleRomaji": "Ryoushin wa Toukyou ni sunde imasu.",
+              "translation": "Orang tua saya tinggal di Tokyo."
+            },
+            {
+              "jp": "あに (兄)",
+              "romaji": "Ani",
+              "meaning": "Kakak laki-laki saya",
+              "label": "Umum",
+              "audio": "あに",
+              "example": "兄は大学生です。",
+              "exampleRomaji": "Ani wa daigakusei desu.",
+              "translation": "Kakak laki-laki saya mahasiswa."
+            },
+            {
+              "jp": "あね (姉)",
+              "romaji": "Ane",
+              "meaning": "Kakak perempuan saya",
+              "label": "Umum",
+              "audio": "あね",
+              "example": "姉は先生です。",
+              "exampleRomaji": "Ane wa sensei desu.",
+              "translation": "Kakak perempuan saya adalah guru."
+            },
+            {
+              "jp": "おとうと (弟)",
+              "romaji": "Otouto",
+              "meaning": "Adik laki-laki saya",
+              "label": "Umum",
+              "audio": "おとうと",
+              "example": "弟は高校生です。",
+              "exampleRomaji": "Otouto wa koukousei desu.",
+              "translation": "Adik laki-laki saya siswa SMA."
+            },
+            {
+              "jp": "いもうと (妹)",
+              "romaji": "Imouto",
+              "meaning": "Adik perempuan saya",
+              "label": "Umum",
+              "audio": "いもうと",
+              "example": "妹は十歳です。",
+              "exampleRomaji": "Imouto wa jussai desu.",
+              "translation": "Adik perempuan saya berusia sepuluh tahun."
+            },
+            {
+              "jp": "そふ (祖父)",
+              "romaji": "Sofu",
+              "meaning": "Kakek saya",
+              "label": "Umum",
+              "audio": "そふ",
+              "example": "祖父は元気です。",
+              "exampleRomaji": "Sofu wa genki desu.",
+              "translation": "Kakek saya sehat."
+            },
+            {
+              "jp": "そぼ (祖母)",
+              "romaji": "Sobo",
+              "meaning": "Nenek saya",
+              "label": "Umum",
+              "audio": "そぼ",
+              "example": "祖母は花が好きです。",
+              "exampleRomaji": "Sobo wa hana ga suki desu.",
+              "translation": "Nenek saya suka bunga."
+            },
+            {
+              "jp": "きょうだい (兄弟)",
+              "romaji": "Kyoudai",
+              "meaning": "Saudara kandung",
+              "label": "Umum",
+              "audio": "きょうだい",
+              "example": "私には兄弟が二人います。",
+              "exampleRomaji": "Watashi ni wa kyoudai ga futari imasu.",
+              "translation": "Saya memiliki dua saudara kandung."
+            },
+            {
+              "jp": "しまい (姉妹)",
+              "romaji": "Shimai",
+              "meaning": "Saudara perempuan",
+              "label": "Umum",
+              "audio": "しまい",
+              "example": "私たちは姉妹です。",
+              "exampleRomaji": "Watashitachi wa shimai desu.",
+              "translation": "Kami adalah saudara perempuan."
+            },
+            {
+              "jp": "むすこ (息子)",
+              "romaji": "Musuko",
+              "meaning": "Anak laki-laki saya",
+              "label": "Umum",
+              "audio": "むすこ",
+              "example": "息子は三歳です。",
+              "exampleRomaji": "Musuko wa sansai desu.",
+              "translation": "Anak laki-laki saya berusia tiga tahun."
+            },
+            {
+              "jp": "むすめ (娘)",
+              "romaji": "Musume",
+              "meaning": "Anak perempuan saya",
+              "label": "Umum",
+              "audio": "むすめ",
+              "example": "娘は五歳です。",
+              "exampleRomaji": "Musume wa gosai desu.",
+              "translation": "Anak perempuan saya berusia lima tahun."
+            }
+          ]
+        },
+        {
+          "number": "2.2",
+          "title": "Keluarga Orang Lain",
+          "words": [
+            {
+              "jp": "ごかぞく (ご家族)",
+              "romaji": "Gokazoku",
+              "meaning": "Keluarga Anda / keluarga orang lain",
+              "label": "Sopan",
+              "audio": "ごかぞく",
+              "example": "ご家族は何人ですか。",
+              "exampleRomaji": "Gokazoku wa nan-nin desu ka.",
+              "translation": "Ada berapa orang dalam keluarga Anda?"
+            },
+            {
+              "jp": "おとうさん (お父さん)",
+              "romaji": "Otousan",
+              "meaning": "Ayah Anda",
+              "label": "Sopan",
+              "audio": "おとうさん",
+              "example": "お父さんはお元気ですか。",
+              "exampleRomaji": "Otousan wa ogenki desu ka.",
+              "translation": "Apakah ayah Anda sehat?"
+            },
+            {
+              "jp": "おかあさん (お母さん)",
+              "romaji": "Okaasan",
+              "meaning": "Ibu Anda",
+              "label": "Sopan",
+              "audio": "おかあさん",
+              "example": "お母さんは料理が好きですか。",
+              "exampleRomaji": "Okaasan wa ryouri ga suki desu ka.",
+              "translation": "Apakah ibu Anda suka memasak?"
+            },
+            {
+              "jp": "ごりょうしん (ご両親)",
+              "romaji": "Goryoushin",
+              "meaning": "Orang tua Anda",
+              "label": "Sopan",
+              "audio": "ごりょうしん",
+              "example": "ご両親はお元気ですか。",
+              "exampleRomaji": "Goryoushin wa ogenki desu ka.",
+              "translation": "Apakah orang tua Anda sehat?"
+            },
+            {
+              "jp": "おにいさん (お兄さん)",
+              "romaji": "Oniisan",
+              "meaning": "Kakak laki-laki Anda",
+              "label": "Sopan",
+              "audio": "おにいさん",
+              "example": "お兄さんは学生ですか。",
+              "exampleRomaji": "Oniisan wa gakusei desu ka.",
+              "translation": "Apakah kakak laki-laki Anda seorang pelajar?"
+            },
+            {
+              "jp": "おねえさん (お姉さん)",
+              "romaji": "Oneesan",
+              "meaning": "Kakak perempuan Anda",
+              "label": "Sopan",
+              "audio": "おねえさん",
+              "example": "お姉さんは何歳ですか。",
+              "exampleRomaji": "Oneesan wa nan-sai desu ka.",
+              "translation": "Berapa usia kakak perempuan Anda?"
+            },
+            {
+              "jp": "おとうとさん (弟さん)",
+              "romaji": "Otoutosan",
+              "meaning": "Adik laki-laki Anda",
+              "label": "Sopan",
+              "audio": "おとうとさん",
+              "example": "弟さんは学生ですか。",
+              "exampleRomaji": "Otoutosan wa gakusei desu ka.",
+              "translation": "Apakah adik laki-laki Anda seorang pelajar?"
+            },
+            {
+              "jp": "いもうとさん (妹さん)",
+              "romaji": "Imoutosan",
+              "meaning": "Adik perempuan Anda",
+              "label": "Sopan",
+              "audio": "いもうとさん",
+              "example": "妹さんは何歳ですか。",
+              "exampleRomaji": "Imoutosan wa nan-sai desu ka.",
+              "translation": "Berapa usia adik perempuan Anda?"
+            },
+            {
+              "jp": "おじいさん (お祖父さん)",
+              "romaji": "Ojiisan",
+              "meaning": "Kakek Anda",
+              "label": "Sopan",
+              "audio": "おじいさん",
+              "example": "おじいさんはお元気ですか。",
+              "exampleRomaji": "Ojiisan wa ogenki desu ka.",
+              "translation": "Apakah kakek Anda sehat?"
+            },
+            {
+              "jp": "おばあさん (お祖母さん)",
+              "romaji": "Obaasan",
+              "meaning": "Nenek Anda",
+              "label": "Sopan",
+              "audio": "おばあさん",
+              "example": "おばあさんはお元気ですか。",
+              "exampleRomaji": "Obaasan wa ogenki desu ka.",
+              "translation": "Apakah nenek Anda sehat?"
+            },
+            {
+              "jp": "ごきょうだい (ご兄弟)",
+              "romaji": "Gokyoudai",
+              "meaning": "Saudara kandung Anda",
+              "label": "Sopan",
+              "audio": "ごきょうだい",
+              "example": "ご兄弟は何人ですか。",
+              "exampleRomaji": "Gokyoudai wa nan-nin desu ka.",
+              "translation": "Ada berapa saudara kandung Anda?"
+            },
+            {
+              "jp": "むすこさん (息子さん)",
+              "romaji": "Musukosan",
+              "meaning": "Anak laki-laki Anda",
+              "label": "Sopan",
+              "audio": "むすこさん",
+              "example": "息子さんは何歳ですか。",
+              "exampleRomaji": "Musukosan wa nan-sai desu ka.",
+              "translation": "Berapa usia anak laki-laki Anda?"
+            },
+            {
+              "jp": "むすめさん (娘さん)",
+              "romaji": "Musumesan",
+              "meaning": "Anak perempuan Anda",
+              "label": "Sopan",
+              "audio": "むすめさん",
+              "example": "娘さんは何歳ですか。",
+              "exampleRomaji": "Musumesan wa nan-sai desu ka.",
+              "translation": "Berapa usia anak perempuan Anda?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Angka, Bilangan, dan Penghitung",
+      "subgroups": [
+        {
+          "number": "3.1",
+          "title": "Angka Dasar",
+          "words": [
+            {
+              "jp": "ぜろ (零)",
+              "romaji": "Zero",
+              "meaning": "Nol",
+              "label": "Umum",
+              "audio": "ぜろ",
+              "example": "番号はゼロです。",
+              "exampleRomaji": "Bangou wa zero desu.",
+              "translation": "Nomornya nol."
+            },
+            {
+              "jp": "いち (一)",
+              "romaji": "Ichi",
+              "meaning": "Satu",
+              "label": "Umum",
+              "audio": "いち",
+              "example": "りんごが一つあります。",
+              "exampleRomaji": "Ringo ga hitotsu arimasu.",
+              "translation": "Ada satu buah apel."
+            },
+            {
+              "jp": "に (二)",
+              "romaji": "Ni",
+              "meaning": "Dua",
+              "label": "Umum",
+              "audio": "に",
+              "example": "猫が二匹います。",
+              "exampleRomaji": "Neko ga nihiki imasu.",
+              "translation": "Ada dua ekor kucing."
+            },
+            {
+              "jp": "さん (三)",
+              "romaji": "San",
+              "meaning": "Tiga",
+              "label": "Umum",
+              "audio": "さん",
+              "example": "本が三冊あります。",
+              "exampleRomaji": "Hon ga sansatsu arimasu.",
+              "translation": "Ada tiga buku."
+            },
+            {
+              "jp": "よん (四)",
+              "romaji": "Yon",
+              "meaning": "Empat",
+              "label": "Umum",
+              "audio": "よん",
+              "example": "家族は四人です。",
+              "exampleRomaji": "Kazoku wa yonin desu.",
+              "translation": "Keluarga saya ada empat orang."
+            },
+            {
+              "jp": "ご (五)",
+              "romaji": "Go",
+              "meaning": "Lima",
+              "label": "Umum",
+              "audio": "ご",
+              "example": "りんごを五つ買いました。",
+              "exampleRomaji": "Ringo o itsutsu kaimashita.",
+              "translation": "Saya membeli lima buah apel."
+            },
+            {
+              "jp": "ろく (六)",
+              "romaji": "Roku",
+              "meaning": "Enam",
+              "label": "Umum",
+              "audio": "ろく",
+              "example": "六時に起きます。",
+              "exampleRomaji": "Rokuji ni okimasu.",
+              "translation": "Saya bangun pukul enam."
+            },
+            {
+              "jp": "なな (七)",
+              "romaji": "Nana",
+              "meaning": "Tujuh",
+              "label": "Umum",
+              "audio": "なな",
+              "example": "七時に学校へ行きます。",
+              "exampleRomaji": "Nanaji ni gakkou e ikimasu.",
+              "translation": "Saya pergi ke sekolah pukul tujuh."
+            },
+            {
+              "jp": "はち (八)",
+              "romaji": "Hachi",
+              "meaning": "Delapan",
+              "label": "Umum",
+              "audio": "はち",
+              "example": "鉛筆が八本あります。",
+              "exampleRomaji": "Enpitsu ga happon arimasu.",
+              "translation": "Ada delapan batang pensil."
+            },
+            {
+              "jp": "きゅう (九)",
+              "romaji": "Kyuu",
+              "meaning": "Sembilan",
+              "label": "Umum",
+              "audio": "きゅう",
+              "example": "九時に寝ます。",
+              "exampleRomaji": "Kuji ni nemasu.",
+              "translation": "Saya tidur pukul sembilan."
+            },
+            {
+              "jp": "じゅう (十)",
+              "romaji": "Juu",
+              "meaning": "Sepuluh",
+              "label": "Umum",
+              "audio": "じゅう",
+              "example": "十人の学生がいます。",
+              "exampleRomaji": "Juu-nin no gakusei ga imasu.",
+              "translation": "Ada sepuluh siswa."
+            }
+          ]
+        },
+        {
+          "number": "3.2",
+          "title": "Angka Besar dan Uang",
+          "tabs": [
+            {
+              "title": "Angka Besar",
+              "words": [
+                {
+                  "jp": "ひゃく (百)",
+                  "romaji": "Hyaku",
+                  "meaning": "Seratus",
+                  "label": "Umum",
+                  "audio": "ひゃく",
+                  "example": "この町には百人います。",
+                  "exampleRomaji": "Kono machi ni wa hyakunin imasu.",
+                  "translation": "Ada seratus orang di kota ini."
+                },
+                {
+                  "jp": "にひゃく (二百)",
+                  "romaji": "Nihyaku",
+                  "meaning": "Dua ratus",
+                  "label": "Umum",
+                  "audio": "にひゃく",
+                  "example": "この本は二百円です。",
+                  "exampleRomaji": "Kono hon wa nihyaku-en desu.",
+                  "translation": "Buku ini harganya dua ratus yen."
+                },
+                {
+                  "jp": "さんびゃく (三百)",
+                  "romaji": "Sanbyaku",
+                  "meaning": "Tiga ratus",
+                  "label": "Umum",
+                  "audio": "さんびゃく",
+                  "example": "駅まで三百メートルです。",
+                  "exampleRomaji": "Eki made sanbyaku meetoru desu.",
+                  "translation": "Jarak ke stasiun tiga ratus meter."
+                },
+                {
+                  "jp": "ろっぴゃく (六百)",
+                  "romaji": "Roppyaku",
+                  "meaning": "Enam ratus",
+                  "label": "Umum",
+                  "audio": "ろっぴゃく",
+                  "example": "このかばんは六百円です。",
+                  "exampleRomaji": "Kono kaban wa roppyaku-en desu.",
+                  "translation": "Tas ini harganya enam ratus yen."
+                },
+                {
+                  "jp": "はっぴゃく (八百)",
+                  "romaji": "Happyaku",
+                  "meaning": "Delapan ratus",
+                  "label": "Umum",
+                  "audio": "はっぴゃく",
+                  "example": "学校に八百人の学生がいます。",
+                  "exampleRomaji": "Gakkou ni happyakunin no gakusei ga imasu.",
+                  "translation": "Ada delapan ratus siswa di sekolah."
+                },
+                {
+                  "jp": "せん (千)",
+                  "romaji": "Sen",
+                  "meaning": "Seribu",
+                  "label": "Umum",
+                  "audio": "せん",
+                  "example": "これは千円です。",
+                  "exampleRomaji": "Kore wa sen-en desu.",
+                  "translation": "Ini seribu yen."
+                },
+                {
+                  "jp": "さんぜん (三千)",
+                  "romaji": "Sanzen",
+                  "meaning": "Tiga ribu",
+                  "label": "Umum",
+                  "audio": "さんぜん",
+                  "example": "この時計は三千円です。",
+                  "exampleRomaji": "Kono tokei wa sanzen-en desu.",
+                  "translation": "Jam ini harganya tiga ribu yen."
+                },
+                {
+                  "jp": "はっせん (八千)",
+                  "romaji": "Hassen",
+                  "meaning": "Delapan ribu",
+                  "label": "Umum",
+                  "audio": "はっせん",
+                  "example": "この自転車は八千円です。",
+                  "exampleRomaji": "Kono jitensha wa hassen-en desu.",
+                  "translation": "Sepeda ini harganya delapan ribu yen."
+                }
+              ],
+              "note": {
+                "title": "Catatan Pelafalan",
+                "intro": "Perhatikan perubahan bunyi saat membaca angka 300, 600, 800, 3.000, dan 8.000, ya!",
+                "items": [
+                  {
+                    "number": "300",
+                    "japanese": "さんびゃく (三百)",
+                    "romaji": "Sanbyaku"
+                  },
+                  {
+                    "number": "600",
+                    "japanese": "ろっぴゃく (六百)",
+                    "romaji": "Roppyaku"
+                  },
+                  {
+                    "number": "800",
+                    "japanese": "はっぴゃく (八百)",
+                    "romaji": "Happyaku"
+                  },
+                  {
+                    "number": "3.000",
+                    "japanese": "さんぜん (三千)",
+                    "romaji": "Sanzen"
+                  },
+                  {
+                    "number": "8.000",
+                    "japanese": "はっせん (八千)",
+                    "romaji": "Hassen"
+                  }
+                ],
+                "footer": "Catatan: Perubahan bunyi pada angka-angka tersebut merupakan perubahan pelafalan khusus (音便 / onbin), bukan semuanya rendaku dalam pengertian linguistik yang ketat."
+              }
+            },
+            {
+              "title": "Kosakata Uang",
+              "words": [
+                {
+                  "jp": "えん (円)",
+                  "romaji": "En",
+                  "meaning": "Yen; mata uang Jepang",
+                  "label": "Umum",
+                  "audio": "えん",
+                  "example": "これは五百円です。",
+                  "exampleRomaji": "Kore wa gohyaku-en desu.",
+                  "translation": "Ini harganya lima ratus yen."
+                },
+                {
+                  "jp": "おかね (お金)",
+                  "romaji": "Okane",
+                  "meaning": "Uang",
+                  "label": "Umum",
+                  "audio": "おかね",
+                  "example": "お金がありません。",
+                  "exampleRomaji": "Okane ga arimasen.",
+                  "translation": "Saya tidak punya uang."
+                },
+                {
+                  "jp": "ねだん (値段)",
+                  "romaji": "Nedan",
+                  "meaning": "Harga",
+                  "label": "Umum",
+                  "audio": "ねだん",
+                  "example": "この値段は安いです。",
+                  "exampleRomaji": "Kono nedan wa yasui desu.",
+                  "translation": "Harga ini murah."
+                },
+                {
+                  "jp": "たかい (高い)",
+                  "romaji": "Takai",
+                  "meaning": "Mahal; tinggi",
+                  "label": "Umum",
+                  "audio": "たかい",
+                  "example": "このかばんはたかいです。",
+                  "exampleRomaji": "Kono kaban wa takai desu.",
+                  "translation": "Tas ini mahal."
+                },
+                {
+                  "jp": "やすい (安い)",
+                  "romaji": "Yasui",
+                  "meaning": "Murah",
+                  "label": "Umum",
+                  "audio": "やすい",
+                  "example": "このほんはやすいです。",
+                  "exampleRomaji": "Kono hon wa yasui desu.",
+                  "translation": "Buku ini murah."
+                },
+                {
+                  "jp": "いくら (幾ら)",
+                  "romaji": "Ikura",
+                  "meaning": "Berapa harga",
+                  "label": "Umum",
+                  "audio": "いくら",
+                  "example": "このほんはいくらですか。",
+                  "exampleRomaji": "Kono hon wa ikura desu ka.",
+                  "translation": "Berapa harga buku ini?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.3",
+          "title": "Bilangan untuk Umur, Nomor, dan Jumlah",
+          "words": [
+            {
+              "jp": "なんさい (何歳)",
+              "romaji": "Nan-sai",
+              "meaning": "Berapa umur",
+              "label": "Umum",
+              "audio": "なんさい",
+              "example": "あなたは何歳ですか。",
+              "exampleRomaji": "Anata wa nan-sai desu ka.",
+              "translation": "Berapa umur kamu?"
+            },
+            {
+              "jp": "さい (歳)",
+              "romaji": "Sai",
+              "meaning": "Tahun (untuk menyatakan umur)",
+              "label": "Umum",
+              "audio": "さい",
+              "example": "私は十八歳です。",
+              "exampleRomaji": "Watashi wa juuhassai desu.",
+              "translation": "Saya berusia delapan belas tahun."
+            },
+            {
+              "jp": "ひとり (一人)",
+              "romaji": "Hitori",
+              "meaning": "Satu orang",
+              "label": "Umum",
+              "audio": "ひとり",
+              "example": "教室に学生が一人います。",
+              "exampleRomaji": "Kyoushitsu ni gakusei ga hitori imasu.",
+              "translation": "Ada satu siswa di kelas."
+            },
+            {
+              "jp": "ふたり (二人)",
+              "romaji": "Futari",
+              "meaning": "Dua orang",
+              "label": "Umum",
+              "audio": "ふたり",
+              "example": "二人で行きます。",
+              "exampleRomaji": "Futari de ikimasu.",
+              "translation": "Kami pergi berdua."
+            },
+            {
+              "jp": "なんにん (何人)",
+              "romaji": "Nan-nin",
+              "meaning": "Berapa orang",
+              "label": "Umum",
+              "audio": "なんにん",
+              "example": "家族は何人ですか。",
+              "exampleRomaji": "Kazoku wa nan-nin desu ka.",
+              "translation": "Ada berapa orang dalam keluarga?"
+            },
+            {
+              "jp": "ばんごう (番号)",
+              "romaji": "Bangou",
+              "meaning": "Nomor",
+              "label": "Umum",
+              "audio": "ばんごう",
+              "example": "電話番号を教えてください。",
+              "exampleRomaji": "Denwa bangou o oshiete kudasai.",
+              "translation": "Tolong beri tahu nomor telepon."
+            },
+            {
+              "jp": "でんわばんごう (電話番号)",
+              "romaji": "Denwa bangou",
+              "meaning": "Nomor telepon",
+              "label": "Umum",
+              "audio": "でんわばんごう",
+              "example": "私の電話番号はこれです。",
+              "exampleRomaji": "Watashi no denwa bangou wa kore desu.",
+              "translation": "Ini nomor telepon saya."
+            },
+            {
+              "jp": "なんばん (何番)",
+              "romaji": "Nan-ban",
+              "meaning": "Nomor berapa",
+              "label": "Umum",
+              "audio": "なんばん",
+              "example": "あなたの部屋は何番ですか。",
+              "exampleRomaji": "Anata no heya wa nan-ban desu ka.",
+              "translation": "Kamar kamu nomor berapa?"
+            },
+            {
+              "jp": "いくつ (幾つ)",
+              "romaji": "Ikutsu",
+              "meaning": "Berapa buah / berapa usia (konteks tertentu)",
+              "label": "Umum",
+              "audio": "いくつ",
+              "example": "りんごはいくつありますか。",
+              "exampleRomaji": "Ringo wa ikutsu arimasu ka.",
+              "translation": "Ada berapa buah apel?"
+            }
+          ]
+        },
+        {
+          "number": "3.4",
+          "title": "Penghitung Benda",
+          "words": [
+            {
+              "jp": "ひとつ (一つ)",
+              "romaji": "Hitotsu",
+              "meaning": "Satu buah (penghitung umum)",
+              "label": "Umum",
+              "audio": "ひとつ",
+              "example": "りんごを一つください。",
+              "exampleRomaji": "Ringo o hitotsu kudasai.",
+              "translation": "Tolong beri saya satu apel."
+            },
+            {
+              "jp": "ふたつ (二つ)",
+              "romaji": "Futatsu",
+              "meaning": "Dua buah (penghitung umum)",
+              "label": "Umum",
+              "audio": "ふたつ",
+              "example": "ケーキを二つ買いました。",
+              "exampleRomaji": "Keeki o futatsu kaimashita.",
+              "translation": "Saya membeli dua kue."
+            },
+            {
+              "jp": "みっつ (三つ)",
+              "romaji": "Mittsu",
+              "meaning": "Tiga buah (penghitung umum)",
+              "label": "Umum",
+              "audio": "みっつ",
+              "example": "卵を三つ使います。",
+              "exampleRomaji": "Tamago o mittsu tsukaimasu.",
+              "translation": "Saya menggunakan tiga butir telur."
+            },
+            {
+              "jp": "よっつ (四つ)",
+              "romaji": "Yottsu",
+              "meaning": "Empat buah (penghitung umum)",
+              "label": "Umum",
+              "audio": "よっつ",
+              "example": "箱が四つあります。",
+              "exampleRomaji": "Hako ga yottsu arimasu.",
+              "translation": "Ada empat kotak."
+            },
+            {
+              "jp": "いつつ (五つ)",
+              "romaji": "Itsutsu",
+              "meaning": "Lima buah (penghitung umum)",
+              "label": "Umum",
+              "audio": "いつつ",
+              "example": "みかんを五つ食べました。",
+              "exampleRomaji": "Mikan o itsutsu tabemashita.",
+              "translation": "Saya makan lima buah jeruk."
+            },
+            {
+              "jp": "むっつ (六つ)",
+              "romaji": "Muttsu",
+              "meaning": "Enam buah (penghitung umum)",
+              "label": "Umum",
+              "audio": "むっつ",
+              "example": "ボールが六つあります。",
+              "exampleRomaji": "Booru ga muttsu arimasu.",
+              "translation": "Ada enam bola."
+            },
+            {
+              "jp": "ななつ (七つ)",
+              "romaji": "Nanatsu",
+              "meaning": "Tujuh buah (penghitung umum)",
+              "label": "Umum",
+              "audio": "ななつ",
+              "example": "質問が七つあります。",
+              "exampleRomaji": "Shitsumon ga nanatsu arimasu.",
+              "translation": "Ada tujuh pertanyaan."
+            },
+            {
+              "jp": "やっつ (八つ)",
+              "romaji": "Yattsu",
+              "meaning": "Delapan buah (penghitung umum)",
+              "label": "Umum",
+              "audio": "やっつ",
+              "example": "りんごを八つ買いました。",
+              "exampleRomaji": "Ringo o yattsu kaimashita.",
+              "translation": "Saya membeli delapan apel."
+            },
+            {
+              "jp": "ここのつ (九つ)",
+              "romaji": "Kokonotsu",
+              "meaning": "Sembilan buah (penghitung umum)",
+              "label": "Umum",
+              "audio": "ここのつ",
+              "example": "部屋が九つあります。",
+              "exampleRomaji": "Heya ga kokonotsu arimasu.",
+              "translation": "Ada sembilan ruangan."
+            },
+            {
+              "jp": "とお (十)",
+              "romaji": "Too",
+              "meaning": "Sepuluh buah (penghitung umum)",
+              "label": "Umum",
+              "audio": "とお",
+              "example": "卵を十個買いました。",
+              "exampleRomaji": "Tamago o jukko kaimashita.",
+              "translation": "Saya membeli sepuluh butir telur."
+            },
+            {
+              "jp": "こ (個)",
+              "romaji": "Ko",
+              "meaning": "Penghitung benda kecil atau benda berbentuk bulat",
+              "label": "Umum",
+              "audio": "こ",
+              "example": "りんごを三個ください。",
+              "exampleRomaji": "Ringo o sanko kudasai.",
+              "translation": "Tolong beri saya tiga apel."
+            },
+            {
+              "jp": "いっこ (一個)",
+              "romaji": "Ikko",
+              "meaning": "Satu buah",
+              "label": "Umum",
+              "audio": "いっこ",
+              "example": "卵を一個使います。",
+              "exampleRomaji": "Tamago o ikko tsukaimasu.",
+              "translation": "Saya menggunakan satu butir telur."
+            },
+            {
+              "jp": "にこ (二個)",
+              "romaji": "Niko",
+              "meaning": "Dua buah",
+              "label": "Umum",
+              "audio": "にこ",
+              "example": "みかんを二個食べました。",
+              "exampleRomaji": "Mikan o niko tabemashita.",
+              "translation": "Saya makan dua buah jeruk."
+            },
+            {
+              "jp": "さんこ (三個)",
+              "romaji": "Sanko",
+              "meaning": "Tiga buah",
+              "label": "Umum",
+              "audio": "さんこ",
+              "example": "りんごを三個買いました。",
+              "exampleRomaji": "Ringo o sanko kaimashita.",
+              "translation": "Saya membeli tiga apel."
+            },
+            {
+              "jp": "よんこ (四個)",
+              "romaji": "Yonko",
+              "meaning": "Empat buah",
+              "label": "Umum",
+              "audio": "よんこ",
+              "example": "りんごを四個買いました。",
+              "exampleRomaji": "Ringo o yonko kaimashita.",
+              "translation": "Saya membeli empat apel."
+            },
+            {
+              "jp": "ごこ (五個)",
+              "romaji": "Goko",
+              "meaning": "Lima buah",
+              "label": "Umum",
+              "audio": "ごこ",
+              "example": "りんごを五個買いました。",
+              "exampleRomaji": "Ringo o goko kaimashita.",
+              "translation": "Saya membeli lima apel."
+            },
+            {
+              "jp": "ろっこ (六個)",
+              "romaji": "Rokko",
+              "meaning": "Enam buah",
+              "label": "Umum",
+              "audio": "ろっこ",
+              "example": "りんごを六個買いました。",
+              "exampleRomaji": "Ringo o rokko kaimashita.",
+              "translation": "Saya membeli enam apel."
+            },
+            {
+              "jp": "ななこ (七個)",
+              "romaji": "Nanako",
+              "meaning": "Tujuh buah",
+              "label": "Umum",
+              "audio": "ななこ",
+              "example": "りんごを七個買いました。",
+              "exampleRomaji": "Ringo o nanako kaimashita.",
+              "translation": "Saya membeli tujuh apel."
+            },
+            {
+              "jp": "はっこ (八個)",
+              "romaji": "Hakko",
+              "meaning": "Delapan buah",
+              "label": "Umum",
+              "audio": "はっこ",
+              "example": "りんごを八個買いました。",
+              "exampleRomaji": "Ringo o hakko kaimashita.",
+              "translation": "Saya membeli delapan apel."
+            },
+            {
+              "jp": "きゅうこ (九個)",
+              "romaji": "Kyuuko",
+              "meaning": "Sembilan buah",
+              "label": "Umum",
+              "audio": "きゅうこ",
+              "example": "りんごを九個買いました。",
+              "exampleRomaji": "Ringo o kyuuko kaimashita.",
+              "translation": "Saya membeli sembilan apel."
+            },
+            {
+              "jp": "じゅっこ (十個)",
+              "romaji": "Jukko",
+              "meaning": "Sepuluh buah",
+              "label": "Umum",
+              "audio": "じゅっこ",
+              "example": "りんごを十個買いました。",
+              "exampleRomaji": "Ringo o jukko kaimashita.",
+              "translation": "Saya membeli sepuluh apel."
+            }
+          ]
+        },
+        {
+          "number": "3.5",
+          "title": "Penghitung Orang dan Hewan",
+          "words": [
+            {
+              "jp": "にん (人)",
+              "romaji": "Nin",
+              "meaning": "Penghitung orang",
+              "label": "Umum",
+              "audio": "にん",
+              "example": "学生が三人います。",
+              "exampleRomaji": "Gakusei ga sannin imasu.",
+              "translation": "Ada tiga siswa."
+            },
+            {
+              "jp": "さんにん (三人)",
+              "romaji": "Sannin",
+              "meaning": "Tiga orang",
+              "label": "Umum",
+              "audio": "さんにん",
+              "example": "家族は三人です。",
+              "exampleRomaji": "Kazoku wa sannin desu.",
+              "translation": "Keluarga saya terdiri dari tiga orang."
+            },
+            {
+              "jp": "よにん (四人)",
+              "romaji": "Yonin",
+              "meaning": "Empat orang",
+              "label": "Umum",
+              "audio": "よにん",
+              "example": "教室に四人います。",
+              "exampleRomaji": "Kyoushitsu ni yonin imasu.",
+              "translation": "Ada empat orang di kelas."
+            },
+            {
+              "jp": "ごにん (五人)",
+              "romaji": "Gonin",
+              "meaning": "Lima orang",
+              "label": "Umum",
+              "audio": "ごにん",
+              "example": "友達が五人来ます。",
+              "exampleRomaji": "Tomodachi ga gonin kimasu.",
+              "translation": "Lima teman akan datang."
+            },
+            {
+              "jp": "ひき (匹)",
+              "romaji": "Hiki",
+              "meaning": "Penghitung hewan kecil",
+              "label": "Umum",
+              "audio": "ひき",
+              "example": "猫が一匹います。",
+              "exampleRomaji": "Neko ga ippiki imasu.",
+              "translation": "Ada seekor kucing."
+            },
+            {
+              "jp": "いっぴき (一匹)",
+              "romaji": "Ippiki",
+              "meaning": "Satu ekor",
+              "label": "Umum",
+              "audio": "いっぴき",
+              "example": "犬を一匹飼っています。",
+              "exampleRomaji": "Inu o ippiki katte imasu.",
+              "translation": "Saya memelihara seekor anjing."
+            },
+            {
+              "jp": "にひき (二匹)",
+              "romaji": "Nihiki",
+              "meaning": "Dua ekor",
+              "label": "Umum",
+              "audio": "にひき",
+              "example": "猫が二匹います。",
+              "exampleRomaji": "Neko ga nihiki imasu.",
+              "translation": "Ada dua ekor kucing."
+            },
+            {
+              "jp": "さんびき (三匹)",
+              "romaji": "Sanbiki",
+              "meaning": "Tiga ekor",
+              "label": "Umum",
+              "audio": "さんびき",
+              "example": "魚が三匹います。",
+              "exampleRomaji": "Sakana ga sanbiki imasu.",
+              "translation": "Ada tiga ekor ikan."
+            },
+            {
+              "jp": "よんひき (四匹)",
+              "romaji": "Yonhiki",
+              "meaning": "Empat ekor",
+              "label": "Umum",
+              "audio": "よんひき",
+              "example": "うさぎが四匹います。",
+              "exampleRomaji": "Usagi ga yonhiki imasu.",
+              "translation": "Ada empat ekor kelinci."
+            },
+            {
+              "jp": "ごひき (五匹)",
+              "romaji": "Gohiki",
+              "meaning": "Lima ekor",
+              "label": "Umum",
+              "audio": "ごひき",
+              "example": "鳥が五匹います。",
+              "exampleRomaji": "Tori ga gohiki imasu.",
+              "translation": "Ada lima ekor burung."
+            },
+            {
+              "jp": "ろくにん (六人)",
+              "romaji": "Rokunin",
+              "meaning": "Enam orang",
+              "label": "Umum",
+              "audio": "ろくにん",
+              "example": "学生が六人います。",
+              "exampleRomaji": "Gakusei ga rokunin imasu.",
+              "translation": "Ada enam siswa."
+            },
+            {
+              "jp": "ななにん (七人)",
+              "romaji": "Nananin",
+              "meaning": "Tujuh orang",
+              "label": "Umum",
+              "audio": "ななにん",
+              "example": "学生が七人います。",
+              "exampleRomaji": "Gakusei ga nananin imasu.",
+              "translation": "Ada tujuh siswa."
+            },
+            {
+              "jp": "はちにん (八人)",
+              "romaji": "Hachinin",
+              "meaning": "Delapan orang",
+              "label": "Umum",
+              "audio": "はちにん",
+              "example": "学生が八人います。",
+              "exampleRomaji": "Gakusei ga hachinin imasu.",
+              "translation": "Ada delapan siswa."
+            },
+            {
+              "jp": "きゅうにん (九人)",
+              "romaji": "Kyuunin",
+              "meaning": "Sembilan orang",
+              "label": "Umum",
+              "audio": "きゅうにん",
+              "example": "学生が九人います。",
+              "exampleRomaji": "Gakusei ga kyuunin imasu.",
+              "translation": "Ada sembilan siswa."
+            },
+            {
+              "jp": "じゅうにん (十人)",
+              "romaji": "Juunin",
+              "meaning": "Sepuluh orang",
+              "label": "Umum",
+              "audio": "じゅうにん",
+              "example": "学生が十人います。",
+              "exampleRomaji": "Gakusei ga juunin imasu.",
+              "translation": "Ada sepuluh siswa."
+            },
+            {
+              "jp": "ろっぴき (六匹)",
+              "romaji": "Roppiki",
+              "meaning": "Enam ekor",
+              "label": "Umum",
+              "audio": "ろっぴき",
+              "example": "猫が六匹います。",
+              "exampleRomaji": "Neko ga roppiki imasu.",
+              "translation": "Ada enam ekor kucing."
+            },
+            {
+              "jp": "ななひき (七匹)",
+              "romaji": "Nanahiki",
+              "meaning": "Tujuh ekor",
+              "label": "Umum",
+              "audio": "ななひき",
+              "example": "犬が七匹います。",
+              "exampleRomaji": "Inu ga nanahiki imasu.",
+              "translation": "Ada tujuh ekor anjing."
+            },
+            {
+              "jp": "はっぴき (八匹)",
+              "romaji": "Happiki",
+              "meaning": "Delapan ekor",
+              "label": "Umum",
+              "audio": "はっぴき",
+              "example": "猫が八匹います。",
+              "exampleRomaji": "Neko ga happiki imasu.",
+              "translation": "Ada delapan ekor kucing."
+            },
+            {
+              "jp": "きゅうひき (九匹)",
+              "romaji": "Kyuuhiki",
+              "meaning": "Sembilan ekor",
+              "label": "Umum",
+              "audio": "きゅうひき",
+              "example": "犬が九匹います。",
+              "exampleRomaji": "Inu ga kyuuhiki imasu.",
+              "translation": "Ada sembilan ekor anjing."
+            },
+            {
+              "jp": "じゅっぴき (十匹)",
+              "romaji": "Juppiki",
+              "meaning": "Sepuluh ekor",
+              "label": "Umum",
+              "audio": "じゅっぴき",
+              "example": "猫が十匹います。",
+              "exampleRomaji": "Neko ga juppiki imasu.",
+              "translation": "Ada sepuluh ekor kucing."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
